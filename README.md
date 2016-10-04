@@ -1,16 +1,14 @@
-# Tidy Data In Python
+# Tidy Data in Python
 
-## [Jean-François Puget](https://www.ibm.com/developerworks/community/blogs/jfp?lang=en)
+A Python exercise motivated by this nice article from Hadley Wickham: [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf). Reading this paper is a nice prerequisite for this notebook.
 
-A Python exercise motivated by this nice article from Hadley Wickham: [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf).  reading this paper is a nice prerequisite for this notebook.
+The code in this notebook was originally developed and commented by [Jean-FranÃ§ois Puget](https://www.ibm.com/developerworks/community/blogs/jfp?lang=en) in a blog post on "[Tidy Data In Python](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en)".
 
-The code in this notebook is commented in my blog post: [Tidy Data In Python](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en)
+## License
 
-## license
+This repository contains a variety of content; some developed by Jean-FranÃ§ois Puget, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
-This repository contains a variety of content; some developed by Jean-François Puget, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
-
-The content developed by Jean-François Puget is distributed under the following license:
+The content developed by Jean-FranÃ§ois Puget is distributed under the following license:
 
     Copyright 2016 IBM
 
